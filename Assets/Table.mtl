@@ -1,0 +1,12 @@
+newmtl pearl_paint_SG
+illum 4
+Kd 0.81 0.81 0.81
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl silicon_nitride_SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.45 0.45 0.45
+Tf 1.00 1.00 1.00
+Ni 1.00

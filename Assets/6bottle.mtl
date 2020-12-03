@@ -1,0 +1,6 @@
+newmtl Frosted_Glass_SG2
+illum 4
+Kd 0.03 0.06 0.05
+Ka 0.00 0.01 0.01
+Tf 0.67 0.67 0.67
+Ni 1.31
